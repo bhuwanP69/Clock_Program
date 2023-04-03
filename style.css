@@ -1,0 +1,43 @@
+body{
+    background-color:lightgreen;
+}
+
+.time{
+    display: grid;
+    justify-content: center;
+    margin-top: 15%;
+}
+
+.myLabel{
+    background-color:rgb(49, 48, 48);
+    color: white;
+    font-size: 40px;
+    padding: 10px;
+    margin-bottom: 15px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.btn{
+    padding: 10px;
+    background-color:rgb(0, 0, 0);
+    font-size: 20px;
+    border-width: 0px;
+    border-radius: 20px;
+    color: white;
+    cursor: pointer;
+    margin-left: -5px;
+}
+
+.btn:hover{
+    background-color: rgb(45, 45, 45);
+}
+
+/* date */
+
+.date{
+    display: grid;
+    justify-content: center;
+    margin-top: 5%;
+}
+
